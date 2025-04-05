@@ -1,2 +1,2 @@
 <h2 align = "center">Hi there, I'm Luthfi Firmansya 👋🏾 </h2>
-<h3 align = "center">Currently working Software Engineering Teacher in Sidoarjo</h3>
+<h3 align = "center">Currently working as Software Engineering Teacher in Sidoarjo, I'm Fullstack web and mobile developer, data engineer, data scientist, machine learning engineer. And I hold Google Certificated Educator Level 1 and Level 2, Microsoft Certificated Educator, Microsoft Office Specialist, Certified Entry-Level Python Programmer, and I'm trainer who focuses on database fundamentals, web developers, Microsoft Office, Python for programming and data science </h3>
